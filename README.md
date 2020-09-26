@@ -1,5 +1,5 @@
 # IntroPython
-Notas  Introducción python y manejo de librerias para manipulación y visualización de datos:
+Notas de curso Introducción  python y manejo de librerias para manipulación y visualización de datos:
 - numpy
 - pandas
 - matplotlib
@@ -7,6 +7,6 @@ Notas  Introducción python y manejo de librerias para manipulación y visualiza
 - Plotly
 - Boken
 
-# Instalacion
+# Instalación
 Los ejercicios se desarrollan en en entorno de ejecución [Google Colab](https://colab.research.google.com/) en donde se ejecutan los notebooks (.ipynb)
 
